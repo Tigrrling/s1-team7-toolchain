@@ -1,2 +1,2 @@
 # s1-team7-toolchain
-No pain, no gain. 
+Team motto: Build together, learn together.
